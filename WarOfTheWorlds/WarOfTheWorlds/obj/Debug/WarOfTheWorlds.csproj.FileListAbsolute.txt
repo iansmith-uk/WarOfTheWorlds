@@ -1,0 +1,7 @@
+C:\Users\iansm\source\repos\WarOfTheWorlds\WarOfTheWorlds\bin\Debug\WarOfTheWorlds.exe.config
+C:\Users\iansm\source\repos\WarOfTheWorlds\WarOfTheWorlds\bin\Debug\WarOfTheWorlds.exe
+C:\Users\iansm\source\repos\WarOfTheWorlds\WarOfTheWorlds\bin\Debug\WarOfTheWorlds.pdb
+C:\Users\iansm\source\repos\WarOfTheWorlds\WarOfTheWorlds\obj\Debug\WarOfTheWorlds.csprojAssemblyReference.cache
+C:\Users\iansm\source\repos\WarOfTheWorlds\WarOfTheWorlds\obj\Debug\WarOfTheWorlds.csproj.CoreCompileInputs.cache
+C:\Users\iansm\source\repos\WarOfTheWorlds\WarOfTheWorlds\obj\Debug\WarOfTheWorlds.exe
+C:\Users\iansm\source\repos\WarOfTheWorlds\WarOfTheWorlds\obj\Debug\WarOfTheWorlds.pdb
